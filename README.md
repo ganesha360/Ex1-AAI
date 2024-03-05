@@ -1,5 +1,5 @@
-## Name
-## Register No : GANESH R
+## Name : GANESH R
+## Register No : 212222240029
 ## Experiment 1
 ## DATE : 05/02/2024
 # Implementation of Bayesian Networks
